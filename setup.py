@@ -5,12 +5,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pythonbot",
-    version="0.15",
+    version="0.3",
     author="Flampt",
     description="Simple api wrapper for Python Bot",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/FlamptX/pythonbot-api-wrapper",
     project_urls={
         "Python Bot": "https://python-bot.web.app",
     },
